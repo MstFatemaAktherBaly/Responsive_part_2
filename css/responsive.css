@@ -1,0 +1,426 @@
+@media (min-width:320px) and (max-width:575.98px){
+    #banner .banner_info h5 {
+        font-size: 12px;
+        line-height: 30px;
+    }
+    #banner .banner_info h1 {
+        font-size: 30px;
+        line-height: 43px;
+    }
+    #banner .banner_info p {
+        font-size: 12px;
+    }
+    #banner .banner_info .main_btn {
+        display: inline-block;
+        font-size: 8px;
+        line-height: 45%;
+        color: var(--secondary-color);
+        border: 1px solid var(--secondary-color);
+        margin-right: 20px;
+        border-radius: 40px;
+        transition: .6s;
+        width: 100px;
+        height: 35px;
+        text-align: center;
+        padding: 12px 10px;
+    }
+    #banner .banner_info .main_btn:hover{
+        font-size: 8px;
+        line-height: 45%;
+        border-radius: 40px;
+        color: var(--default-white);
+        border-radius: 15px;
+        background: var(--primary-color);
+        border: none;
+        padding: 12px  10px;
+        box-shadow: 2px 2px 5px var(--primary-text);
+    
+    }
+    #banner .banner_info ul {
+        margin: 30px 0;
+    }
+    #banner .banner_info ul li {
+        margin-right: 13px;
+    }
+    #banner .banner_info ul li a {
+        display: inline-block;
+        font-size: 10px;
+        color: var(--default-black);
+        width: 20px;
+        height: 20px;
+        background: #F4F3F3;
+        text-align: center;
+        line-height: 20px;
+        border-radius: 50%;
+        transition: .5s;
+      } 
+      #banner .banner_info ul li a:hover{
+        display: inline-block;
+        font-size: 12px;
+        color: var(--default-black);
+        color: var(--default-white);
+       background: var(--primary-color);
+      }
+      #banner .banner_img > img {
+        transform: translateX(0px);
+    }
+    #banner .banner_img .skill_2 {
+        right: 20px;
+        padding: 2px;
+    }
+    #banner .banner_img .bio h5 {
+        font-size: 8px;
+        line-height: 18px;
+        padding-top: 5px;
+    }
+    #banner .banner_img .bio {
+        position: absolute;
+        border-radius: 10px;
+        padding: 5px;
+        bottom: 10px;
+        left: 20px;
+        text-align: center;
+    }
+    #banner .banner_img .skill_1 {
+        font-size: 8px;
+      background: var(--default-white);
+      padding: 2px;
+    }
+    .img-fluid {
+        margin-left: -10px;
+    }
+    .common_info h2 {
+        font-size: 40px;
+        line-height: 45px;
+        margin-bottom: 10px;
+    }
+    .common_info p {
+        font-size: 15px;
+        line-height: 120%;
+        margin-bottom: 10px;
+    }
+    .common_info a {
+        font-size: 10px;
+        line-height: 110%;
+        margin-right: 20px;
+        border-radius: 40px;
+        width: 104.5px;
+        height: 34.5px;
+        text-align: center;
+        padding: 10px 0;
+        margin-bottom: 10px;
+    }
+    .common_info a:hover {
+        font-size: 12px;
+        line-height: 110%;
+        margin-right: 20px;
+        border-radius: 40px;
+        width: 104.5px;
+        height: 34.5px;
+        text-align: center;
+        padding: 10px 0;
+    }
+    #quality .quality_info h5 {
+        font-size: 15px;
+        line-height: 90%;
+        color: var(--secondary-color);
+        margin: 7px 0;
+    }
+    #quality .quality_info p {
+        font-size: 10px;
+        line-height: 110%;
+    }
+    #quality .quality_info {
+        padding: 20px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        width: 175px;
+        height: 220px;
+    }
+    #quality .quality_info:nth-child(2) {
+        margin: 0 0px 0;
+    }
+    #branding .middle_info h5 {
+       color: var(--secondary-color);
+        margin-left: 230px;
+    }
+    #branding .middle_info p {
+        font-size: 10px;
+        margin-left: 229px;
+        line-height: 100%;
+        color: var(--primary-text);
+    }
+    .common_info h2 {
+        font-size: 20px;
+        line-height: 45px;
+        margin-bottom: 5px;
+    }
+    .common_info p {
+        font-size: 10px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .common_info a{
+        font-size: 10px;
+        line-height: 150%;
+        width: 80px;
+        height: 30px;
+        padding: 5px  0;
+    }
+    .common_info a:hover{
+        font-size: 10px;
+        line-height: 150%;
+        width: 80px;
+        height: 30px;
+        padding: 5px  0;
+    }
+   
+    #helping .designing .effect {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+        width: 300px;
+        height: 80px;
+        padding: 10px;
+        margin: 20px 40px;
+       
+    }
+    #helping .mini_info h5 {
+        font-size: 20px;
+        line-height: 40px;
+        text-align: left;
+    }
+    #helping .mini_info p {
+        font-size: 10px;
+        line-height: 100%;
+        text-align: left;
+    }
+    #experience .heading h2 {
+        font-size: 25px;
+        line-height: 3;
+        text-align: center;
+        color: var(--secondary-color);
+    }
+    #experience .experience_info h4 {
+        font-size: 12px;
+        line-height: 100%;
+        color: var(--secondary-color);
+        margin-bottom: 10px;
+    }
+    #experience .experience_info p {
+        font-size: 10px;
+        line-height: 100%;
+        color: var(--primary-text);
+    }
+    #experience .experience_info {
+        margin: 20px 0;
+        text-align: center;
+    }
+    footer .widget_2 h2 {
+        font-size: 26px;
+        line-height: 150%;
+      
+    }
+    footer .widget_2 p {
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 100%;
+        
+    }
+    footer .widget_3 a {
+        font-weight: 600;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 150%;
+        color: var(--default-white);
+        padding: 10px 20px;
+        border-radius: 15px;
+        transition: .5s;
+        border: none;
+        margin-top: 20px;
+    }
+    footer .widget_3 a:hover {
+        font-size: 18px;
+        line-height: 180%;
+        color: var(--primary-color);
+        padding: 10px 20px;
+        border-radius: 15px;
+        background-color: var(--secondary-text);
+        border: none;
+    }
+    footer .contact_info {
+        padding: 20px 0;
+    }
+    footer .contact_info p {
+        font-size: 15px;
+    }
+    footer .contact_info a {
+        font-size: 15px;
+    }
+   
+}
+@media (min-width:576px) and (max-width:768px) {
+    #banner{
+        padding-left: 20px;
+    }
+    #banner .banner_img > img {
+        transform: translateX(0px);
+    }
+    #banner .banner_img .skill_2 {
+        right: 10px;
+    }
+    #banner .banner_info h5 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    #banner .banner_info h1 {
+        font-size: 34px;
+        line-height: 44px;
+        margin-bottom: 26px;
+    }
+    #banner .banner_info p {
+        font-size: 15px;
+    }
+    #banner .banner_info .main_btn {
+        display: inline-block;
+        font-size: 10px;
+        line-height: 180%;
+        color: var(--secondary-color);
+        border: 1px solid var(--secondary-color);
+        margin-right: 20px;
+        border-radius: 10px;
+        transition: .6s;
+        width: 100px;
+        height: 35px;
+        text-align: center;
+        padding: 8px 0px;
+    }
+    #banner .banner_info .main_btn:hover{
+        font-size: 12px;
+        line-height: 180%;
+        color: var(--default-white);
+        border-radius: 15px;
+        background: var(--primary-color);
+        border: none;
+        padding: 8px  10px;
+        box-shadow: 2px 2px 5px var(--primary-text);
+    
+    }
+    #banner .banner_img .skill_2 {
+        right: 30px;
+    }
+    #banner .banner_img .bio {
+        border-radius: 10px;
+        padding: 5px;
+        bottom: 10px;
+        left: 10px;
+       
+    }
+    #branding .branding_img {
+        background-image: url(../IMAGES/branding_bg.png);
+        width: 516px;
+        height: 457.8px;
+        margin: 80px 0 0 -10px;
+    }
+    .common_info h2 {
+        font-size: 24px;
+        line-height: 31px;
+    }
+    .common_info p {
+        font-size: 15px;
+        line-height: 165%;
+    }
+    .common_info a{
+        font-size: 14px;
+        line-height: 180%;
+        width: 121px;
+        height: 47px;
+        padding: 10px  0;
+    }
+    .common_info a:hover{
+        font-size: 14px;
+        line-height: 180%;
+        width: 121px;
+        height: 47px;
+        padding: 10px  0;
+    }
+    #branding .common_info {
+        padding: 80px;
+    }
+    #quality .quality_info:nth-child(2) {
+        margin: 25px 0;
+    }
+    #helping .designing {
+        margin: 80px;
+    }
+   
+    .text-end {
+        text-align:left !important;
+    }
+    .flex-wrap {
+        flex-wrap: nowrap !important;
+    }
+    #helping .designing {
+        margin: auto;
+    }
+    #helping .mini_info {
+        margin-left: 20px;
+    }
+    #experience .heading h2 {
+        font-size: 24px;
+        line-height: 31px;
+    }
+    #experience .experience_info h4 {
+        font-size: 15px;
+    }
+    #experience .experience_info p {
+        font-size: 12px;
+       
+    }
+
+    .row > * {
+        text-align: center;
+        
+    }
+    footer .widget_2 h2 {
+        font-size: 30px;
+    }
+    footer .widget_2 p {
+        font-weight: 400;
+        font-size: 10px;
+        padding: 20px;
+        line-height: 100%;
+       
+    }
+    footer .contact_info p {
+        font-size: 15px;
+        padding: 0 100px;
+    }
+    .text-end {
+        text-align: center !important;
+    }
+    footer .contact_info a {
+        font-size: 18px;
+        margin-left: 20px;
+    }
+
+    footer .widget_3 a {
+        font-size: 10px;
+        line-height: 180%;
+       padding: 10px 20px;
+       border-radius: 30px;
+    }
+    footer .widget_3 a:hover {
+        font-size: 10px;
+        line-height: 180%;
+        color: var(--primary-color);
+        padding: 10px 20px;
+        border-radius: 30px;
+        background-color: var(--secondary-text);
+        border: none;
+    }
+    footer .contact_info {
+        padding: 10px 0;
+    }
+}
